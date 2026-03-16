@@ -1,0 +1,2 @@
+﻿namespace Workshop.Core;
+

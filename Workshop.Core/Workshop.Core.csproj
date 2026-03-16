@@ -7,10 +7,4 @@
         <RootNamespace>Workshop.Core</RootNamespace>
     </PropertyGroup>
 
-    <ItemGroup>
-      <Folder Include="Entities\" />
-      <Folder Include="Enums\" />
-      <Folder Include="Interfaces\" />
-    </ItemGroup>
-
 </Project>
